@@ -17,6 +17,9 @@ npm i -D nodemon
 # install dependencies
 npm install
 
+# smtp 서버 설정
+dev_template.js 파일 dev.js 로 수정후 내용 입력
+
 # serve with hot reload at localhost:8080
 npm run dev
 
